@@ -1,4 +1,4 @@
-# Store App
+# 🛒 Store App
 
 A Flutter Store App that allows users to manage products, retrieve various categories, fetch products by category name, update existing products using HTTP PUT requests, and add new products using HTTP POST requests.
 
